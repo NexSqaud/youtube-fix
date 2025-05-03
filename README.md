@@ -1,6 +1,6 @@
 # YouTube Main Page grid fix
 
-Browser extension that fixes huge ass main page grid on YouTube main page.
+Browser extension that fixes huge ass grid on YouTube main page.
 
 Sets items per row to 4.
 
